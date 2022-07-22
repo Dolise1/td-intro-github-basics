@@ -1,4 +1,4 @@
-What do you understand by Git
+
 GIT is a version control system which keeps track of every stage and modification of a project
 GIT helps teams collaborate and allow them work on a project simultaneously
 GIT is the most widely used version control system
