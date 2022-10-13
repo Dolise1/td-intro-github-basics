@@ -24,6 +24,6 @@ To commit a project to github you have to take the following steps:
 * git branch -M "main"(repository link)
 * git push -u origin "main"
 
- This prompts you to log in with your generated token and username
-And process is completed successfully,
+This prompts you to log in with your generated token and username
+And process is completed successfully.
 
