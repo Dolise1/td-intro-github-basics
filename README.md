@@ -1,4 +1,4 @@
-What do you understand by Git
+
 GIT is a version control system which keeps track of every stage and modification of a project.
 GIT helps teams collaborate and allow them work on a project simultaneously,
 GIT is the most widely used version control system.
@@ -21,6 +21,6 @@ git branch -M "main"
 git status (to be sure everything is in order)
 git commit -m "first commit"
 git branch -M "main"(repository link)
+git push -u origin "main"
 This prompts you to log in with your generated token and username
-
 
